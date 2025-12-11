@@ -2,14 +2,6 @@
 
 ## Software Engineer
 
-#### Contact Details
-
-**Email**: j3andr397@gmail.com
-
-**Phone**: +27 71 330 4416
-
-**Location**: Johannesburg, South Africa
-
 ## Skills
 
 PHP & Laravel
